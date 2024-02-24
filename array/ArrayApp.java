@@ -95,5 +95,7 @@ public class ArrayApp {
 			
 			return max;
 		}
+		
+		
 	}//end Array class
 
